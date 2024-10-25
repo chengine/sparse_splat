@@ -11,7 +11,7 @@
 `python -m pip install -e .`
 
 ## 3. Register `sparse_splat` with Nerfstudio.
-`ns-install -cli`
+`ns-install-cli`
 
 ### Now, you can run `sparse_splat` like other models in Nerfstudio using the `ns-train sparse_splat` command.
 ### For example:

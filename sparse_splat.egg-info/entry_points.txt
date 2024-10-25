@@ -1,0 +1,2 @@
+[nerfstudio.method_configs]
+sparse-splat = sparse_splat.config:sparse_splat
